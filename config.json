@@ -1,0 +1,29 @@
+{
+    "token": "ODA4MDA5NDM2NTEzNTY2ODEx.YCATbQ.kK5qSl-tlkdDPL-_HxQoaopkodw",
+    "owners": [
+        "451004306477547527",
+        "692734175324799016",
+        "548255235823501322",
+        "580755721386459136"
+    ],
+    "roles": {
+        "verificator": "810128498915672075"
+    },
+    "channels": {
+        "verification": "810130301158031372",
+        "logs": "810203048097480754"
+    },
+    "links": {
+        "support": "https://discord.gg/zR3Tj2vqTV",
+        "invite": "https://discord.com/api/oauth2/authorize?client_id=808009436513566811&permissions=8&scope=bot",
+        "dashboard": "https://ca.pl/"
+    },
+    "prefix": "?",
+    "guildCreate": "",
+    "guildDelete": "",
+    "hypixelAPIkey": "6fc13153-9f4b-4484-a174-7cb37286d6f2",
+    "embedSuccessColor": "#3333cc",
+    "embedErrorColor": "#ff3300",
+    "adNumber": 1,
+    "number": 3
+}
